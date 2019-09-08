@@ -1,0 +1,55 @@
+total 456
+drwxr-xr-x+ 54 jklapacz  staff   1.7K Sep  7 15:27 .
+drwxr-xr-x   5 root      admin   160B Jun 17 21:40 ..
+-r--------   1 jklapacz  staff     7B Jun 17 21:40 .CFUserTextEncoding
+-rw-r--r--@  1 jklapacz  staff    14K Aug 30 00:42 .DS_Store
+drwx------  17 jklapacz  staff   544B Sep  7 13:53 .Trash
+-rw-------   1 jklapacz  staff   136B Jun 17 23:21 .bash_history
+drwx------   6 jklapacz  staff   192B Aug  4 14:10 .config
+drwxr-xr-x   4 jklapacz  staff   128B Aug  4 14:38 .docker
+drwxr-xr-x  22 jklapacz  staff   704B Sep  7 13:18 .dotfiles
+lrwxr-xr-x   1 jklapacz  staff    44B Sep  7 13:18 .gemrc -> /Users/jklapacz/.dotfiles/ruby/gemrc.symlink
+drwxr-xr-x   3 jklapacz  staff    96B Jul 10 21:24 .gervill
+lrwxr-xr-x   1 jklapacz  staff    47B Sep  7 13:19 .gitconfig -> /Users/jklapacz/.dotfiles/git/gitconfig.symlink
+lrwxr-xr-x   1 jklapacz  staff    53B Sep  7 13:19 .gitconfig.local -> /Users/jklapacz/.dotfiles/git/gitconfig.local.symlink
+lrwxr-xr-x   1 jklapacz  staff    47B Sep  7 13:19 .gitignore -> /Users/jklapacz/.dotfiles/git/gitignore.symlink
+lrwxr-xr-x   1 jklapacz  staff    44B Sep  7 13:18 .irbrc -> /Users/jklapacz/.dotfiles/ruby/irbrc.symlink
+drwxr-xr-x   5 jklapacz  staff   160B Aug  4 14:58 .kube
+drwxr-xr-x   3 jklapacz  staff    96B Jun 20 19:34 .local
+drwxr-xr-x  24 jklapacz  staff   768B Aug 12 21:48 .minikube
+drwxr-xr-x   3 jklapacz  staff    96B Jul  7 00:41 .mono
+drwxr-xr-x   3 jklapacz  staff    96B Jul  7 00:53 .mputils
+-rw-------   1 jklapacz  staff   204B Jun 20 19:35 .netrc
+-rw-------   1 jklapacz  staff    25B Jun 19 01:00 .node_repl_history
+drwxr-xr-x   5 jklapacz  staff   160B Jun 19 00:39 .npm
+drwxr-xr-x  27 jklapacz  staff   864B Jun 19 00:39 .nvm
+drwxr-xr-x  19 jklapacz  staff   608B Jul 20 13:36 .oh-my-zsh
+drwxr-xr-x   4 jklapacz  staff   128B Jul  7 00:51 .oracle_jre_usage
+-rw-r--r--   1 jklapacz  staff    10B Jun 17 23:19 .shell.pre-oh-my-zsh
+drwxr-xr-x   5 jklapacz  staff   160B Jun 19 00:29 .ssh
+lrwxr-xr-x   1 jklapacz  staff    48B Sep  7 13:18 .tmux.conf -> /Users/jklapacz/.dotfiles/tmux/tmux.conf.symlink
+drwxr-xr-x   3 jklapacz  staff    96B Aug 15 22:42 .tu
+-rw-------   1 jklapacz  staff    12K Sep  7 14:05 .viminfo
+lrwxr-xr-x   1 jklapacz  staff    43B Sep  7 13:18 .vimrc -> /Users/jklapacz/.dotfiles/vim/vimrc.symlink
+drwx------   7 jklapacz  staff   224B Jun 21 15:07 .vnc
+drwxr-xr-x   3 jklapacz  staff    96B Jun 17 23:30 .vscode-insiders
+drwxr-xr-x   3 jklapacz  staff    96B Jun 19 00:40 .yarn
+-rw-r--r--   1 jklapacz  staff   116B Aug  4 14:12 .yarnrc
+-rw-r--r--   1 jklapacz  staff    40K Sep  7 14:56 .zcompdump
+-rw-r--r--   1 jklapacz  staff    40K Jun 17 23:19 .zcompdump-Jakub’s MacBook Pro-5.3
+-rw-r--r--   1 jklapacz  staff    40K Jun 18 00:08 .zcompdump-ares-5.3
+-rw-------   1 jklapacz  staff    47K Sep  7 15:27 .zsh_history
+lrwxr-xr-x   1 jklapacz  staff    43B Sep  7 13:18 .zshrc -> /Users/jklapacz/.dotfiles/zsh/zshrc.symlink
+drwx------@  4 jklapacz  staff   128B Jul 18 20:19 Applications
+drwx------@  5 jklapacz  staff   160B Aug 12 21:44 Desktop
+drwx------@ 26 jklapacz  staff   832B Aug 20 19:46 Documents
+drwx------+ 12 jklapacz  staff   384B Sep  7 13:53 Downloads
+lrwx------   1 jklapacz  staff    20B Sep  4 20:42 Google Drive File Stream -> /Volumes/GoogleDrive
+drwx------@ 68 jklapacz  staff   2.1K Sep  7 13:44 Library
+drwx------+  3 jklapacz  staff    96B Jun 17 21:40 Movies
+drwx------+  4 jklapacz  staff   128B Jul  9 16:19 Music
+drwx------+  7 jklapacz  staff   224B Jun 18 20:03 Pictures
+drwxr-xr-x+  4 jklapacz  staff   128B Jun 17 21:40 Public
+drwxr-xr-x   3 jklapacz  staff    96B Jul  7 00:44 Twitch
+drwxr-xr-x   8 jklapacz  staff   256B Sep  7 14:02 dev
+-rw-r--r--   1 jklapacz  staff   414B Jun 19 00:24 transfer
